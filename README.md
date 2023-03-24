@@ -1,6 +1,6 @@
 
 
-## *SoccerNet v3 H250*
+## *SoccerNet v3 H250* (YOLO annotations for Ball & Player Detection)
 **[Setting a baseline in long-shot and real-time player / ball detection in Football](https://ifipaiai.org/2023/)** AIAI 2023 León, Spain. 
 
 Created by [Kostas Moutselos](mailto:kmouts@unipi.gr),
