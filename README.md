@@ -28,6 +28,10 @@ than FootAndBall in long-shot real-time detection of the ball and players on foo
 ### Annotations
 Only two classes are included in the YOLO annotations: Ball (0), and Person (1).
 
+### Dataset Statistics
+Daset statistics regarding the train (green), validation (orange) and test (red) parts.
+<img src="images/SoccerNetv3_H250_stats.png" alt="Dataset Statistics" >
+
 ### Citation
 Please, if you use the SoccerNet v3 H250 Dataset, consider citing:
 
