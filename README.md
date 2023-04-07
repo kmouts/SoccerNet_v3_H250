@@ -1,7 +1,7 @@
 
 
 ## *SoccerNet v3 H250* (YOLO annotations for Ball & Player Detection)
-**[Setting a baseline in long-shot and real-time player / ball detection in Football](https://easyconferences.eu/iisa2023/)** IISA 2023 Volos, Greece. 
+**[Setting a Baseline in long-shot real-time Soccer Player and Ball detection](https://easyconferences.eu/iisa2023/)** IISA 2023 Volos, Greece. 
 
 Created by [Kostas Moutselos](mailto:kmouts@unipi.gr),
 and Ilias Maglogiannis
@@ -16,8 +16,8 @@ were not sufficient. We point out their weaknesses, and with the advent of Socce
 propose and deliver to the community an edited part of it, in YOLO normalized annotation format,
 for the reliable evaluation of related models [https://github.com/kmouts/SoccerNet_v3_H250]. 
 The code of the methods and metrics are also available so that they can be used as a
-benchmark in future comparisons. The recent YOLO8n model proves better
-than FootAndBall in long-shot real-time detection of the ball and players on football fields.
+benchmark in future comparisons. [https://github.com/kmouts/FootAndBall].
+The recent YOLO8n model proves better than FootAndBall in long-shot real-time detection of the ball and players on football fields.
 
 ### Directory Structure
 <img src="images/directory_structure.png" alt="Directory Structure" >
