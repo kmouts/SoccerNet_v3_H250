@@ -1,7 +1,7 @@
 
 
 ## *SoccerNet v3 H250* (YOLO annotations for Ball & Player Detection)
-**[Setting a baseline in long-shot and real-time player / ball detection in Football](https://ifipaiai.org/2023/)** AIAI 2023 León, Spain. 
+**[Setting a baseline in long-shot and real-time player / ball detection in Football](https://easyconferences.eu/iisa2023/)** IISA 2023 Volos, Greece. 
 
 Created by [Kostas Moutselos](mailto:kmouts@unipi.gr),
 and Ilias Maglogiannis
@@ -35,14 +35,14 @@ Daset statistics regarding the train (green), validation (orange) and test (red)
 ### Citation
 Please, if you use the SoccerNet v3 H250 Dataset, consider citing:
 
-    @conference{AIAI 2023 19th International Conference on Artificial Intelligence Applications and Innovations,
+    @conference{IISA 2023 14th International Conference on Information,Intelligence, Systems and Applications,
     author={Konstantinos Moutselos and Ilias Maglogiannis},
-    title={Setting a baseline in long-shot and real-time player & ball detection in Football},
-    booktitle={Proceedings of the 19th International Conference on Artificial Intelligence Applications and Innovations},
+    title={Setting a baseline in long-shot real-time Soccer Player and Ball detection},
+    booktitle={},
     year={2023},
     pages={-},
-    publisher={Springer},
-    organization={IFIP AIAI},
+    publisher={},
+    organization={},
     doi={},
     isbn={},
     }
