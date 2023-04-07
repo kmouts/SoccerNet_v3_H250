@@ -14,7 +14,7 @@ Players and ball detection are among the first required steps on a football anal
 Until recently, the existing open datasets on which the evaluations of most models were based,
 were not sufficient. We point out their weaknesses, and with the advent of SoccerNet v3, we
 propose and deliver to the community an edited part of it, in YOLO normalized annotation format,
-for the reliable evaluation of related models [https://github.com/kmouts/SoccerNet_v3_H250]. 
+for the reliable evaluation of related models [**https://doi.org/10.5281/zenodo.7808511**](https://doi.org/10.5281/zenodo.7808511). 
 The code of the methods and metrics are also available so that they can be used as a
 benchmark in future comparisons. [https://github.com/kmouts/FootAndBall].
 The recent YOLO8n model proves better than FootAndBall in long-shot real-time detection of the ball and players on football fields.
