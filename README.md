@@ -1,7 +1,7 @@
 
 
 ## *SoccerNet v3 H250* (YOLO annotations for Ball & Player Detection)
-**[Setting a Baseline in long-shot real-time Soccer Player and Ball detection](https://easyconferences.eu/iisa2023/)** IISA 2023 Volos, Greece. 
+**Setting a Baseline for long-shot real-time Player and Ball detection in Soccer Videos](https://easyconferences.eu/iisa2023/)** IISA 2023 Volos, Greece. 
 
 Created by [Kostas Moutselos](mailto:kmouts@unipi.gr),
 and Ilias Maglogiannis
@@ -37,7 +37,7 @@ Please, if you use the SoccerNet v3 H250 Dataset, consider citing:
 
     @conference{IISA 2023 14th International Conference on Information,Intelligence, Systems and Applications,
     author={Konstantinos Moutselos and Ilias Maglogiannis},
-    title={Setting a baseline in long-shot real-time Soccer Player and Ball detection},
+    title={Setting a Baseline for long-shot real-time Player and Ball detection in Soccer Videos},
     booktitle={},
     year={2023},
     pages={-},
