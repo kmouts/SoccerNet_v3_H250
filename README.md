@@ -35,16 +35,17 @@ Daset statistics regarding the train (green), validation (orange) and test (red)
 ### Citation
 Please, if you use the SoccerNet v3 H250 Dataset, consider citing:
 
-@INPROCEEDINGS{10345947,
-  author={Moutselos, Konstantinos and Maglogiannis, Ilias},
-  booktitle={2023 14th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
-  title={Setting a Baseline for Long-Shot Real-Time Player and Ball Detection in Soccer Videos}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-7},
-  doi={10.1109/IISA59645.2023.10345947}}
-
+    @INPROCEEDINGS{10345947,
+    author={Moutselos, Konstantinos and Maglogiannis, Ilias},
+    booktitle={2023 14th International Conference on Information, Intelligence, Systems & Applications (IISA)}, 
+    title={Setting a Baseline for Long-Shot Real-Time Player and Ball Detection in Soccer Videos}, 
+    year={2023},
+    volume={},
+    number={},
+    pages={1-7},
+    doi={10.1109/IISA59645.2023.10345947}}
+    }
+ 
 ### License
 Our code is released under the MIT License (see LICENSE file for details).
 We have added the License from SoccerNet v3.
